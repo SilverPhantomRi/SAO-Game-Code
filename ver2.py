@@ -190,8 +190,3 @@ def new_place(p_statue):
       
 start()
 print("Game Over.")
-
- 
- 
-
-
